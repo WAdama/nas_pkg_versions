@@ -1,4 +1,6 @@
 #!/bin/bash
+#Version 1.0
+
 declare -a PACKAGES
 TEXT=""
 IFS=$'\n'
