@@ -28,3 +28,7 @@ wget https://raw.githubusercontent.com/WAdama/nas_pkg_versions/master/nas_pkg_ve
 On your PRTG system place the ovl file in *INSTALLDIR\PRTG Network Monitor\lookups\custom* and refresh it under **System Administration / Administrative Tools**
 
 In PRTG create under your device which represents your Synology a SSH custom advanced senor.
+
+Parameters are not needed as the script get all information from the original tools offered by DSM.
+
+**HINT:** This sensor works only if the Synology device has a connect to the internet as the original DSM command "synopkg" is used to get the information.
