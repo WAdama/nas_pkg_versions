@@ -31,7 +31,7 @@ In PRTG create under your device which represents your Synology a SSH custom adv
 
 Parameters are not needed as the script get all information from the original tools offered by DSM.
 
-**HINT:** This sensor works only if the Synology device has a connect to the internet as the original DSM command "synopkg" is used to get the information.
+**HINT:** This sensor works only if the Synology device has a connect to the internet as the original DSM command "synopkg" is used to get the information from the Synology servers.
 
 The sensor will show in text the packages which have a update and the new version.
 
