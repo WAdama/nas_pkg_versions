@@ -34,3 +34,5 @@ Parameters are not needed as the script get all information from the original to
 **HINT:** This sensor works only if the Synology device has a connect to the internet as the original DSM command "synopkg" is used to get the information.
 
 The sensor will show in text the packages which have a update and the new version.
+
+![Screenshot2](./images/nas_pkg_versions_sensor.png)
