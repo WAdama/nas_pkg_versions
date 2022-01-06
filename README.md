@@ -1,7 +1,7 @@
 # nas_pkg_versions
-Bash script for PRTG by Paessler to monitoring status of device backup in Synology Active Backup for Business
+Bash script for PRTG by Paessler to monitoring status of available updates of DSM packages.
 
-The sensor will show the status of the last backup, how many data were transferred, the duration and the time passed since the laste backup. nas_ab_status_m.sh is for multiple devices in one sensor.
+The sensor will show the availability and the packages and their new versions in the status bar.
 
 Sensor has to be created in PRTG on your Synology device.
 
